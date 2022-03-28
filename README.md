@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on ... PEA
 - 🌱 I’m currently learning ... Artificial Intelligent
+- 📫 How to reach me: chaweewat.p@gmail.com
+- 😄 Pronouns: He/Him
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ...  -->
-- 📫 How to reach me: chaweewat.p@gmail.com
-- 😄 Pronouns: He/Him
 <!-- - ⚡ Fun fact: ... -->
 
 
