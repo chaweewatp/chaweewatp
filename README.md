@@ -18,3 +18,8 @@ Here are some ideas to get you started:
 ## Sawadee Krub. I'm First & You're Second. 👋
 
 
+
+**Languages and Tools:** 
+
+![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
+
